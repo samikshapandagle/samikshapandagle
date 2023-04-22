@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi there 👋
+I am Samiksha Pandagle
 - 🔭  I’m currently working on my programming skills and trying to build more intresting and independent projects
 - 🌱 I’m currently learning problem solving skills and open source contribution techniques
 - 👯 I’m looking to collaborate on upcomming projects
